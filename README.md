@@ -28,7 +28,7 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umit-aslan&layout=compact&hide_border=true&theme=github_dark" />
 </a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cenkSengunlu&theme=buefy-dark&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=313F56&ring=601BDD&fire=2D5CDD&currStreakNum=2DB4DD&sideNums=1B96DD&sideLabels=077ADD&currStreakLabel=5C07DD)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=umit-aslan&theme=buefy-dark&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=313F56&ring=601BDD&fire=2D5CDD&currStreakNum=2DB4DD&sideNums=1B96DD&sideLabels=077ADD&currStreakLabel=5C07DD)](https://git.io/streak-stats)
 
 </div>
 
