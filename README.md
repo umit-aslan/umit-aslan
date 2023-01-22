@@ -16,3 +16,19 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+
+# 📈 Statistics:
+
+<div align="center">
+<a href="https://github.com/umit-aslan">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=umit-aslan&theme=github_dark&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" />
+</a>
+<a href="https://github.com/umit-aslan">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umit-aslan&layout=compact&hide_border=true&theme=github_dark" />
+</a>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cenkSengunlu&theme=buefy-dark&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=313F56&ring=601BDD&fire=2D5CDD&currStreakNum=2DB4DD&sideNums=1B96DD&sideLabels=077ADD&currStreakLabel=5C07DD)](https://git.io/streak-stats)
+
+</div>
+
