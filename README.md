@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ümit</h1>
 <h3 align="center">A passionate frontend and game developer from Turkey</h3>
-
+<hr/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/umit_aslann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="umitaslan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ümit-aslann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umitaslan" height="30" width="40" /></a>
 </p>
-
+<hr/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="Html" alt="html" width="40" height="40"/> </a>
@@ -20,7 +20,7 @@
 <a href=""   target="_blank"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"   title="C#" alt="csharp" width="40" height="40"  /> </a> 
 <a href=""   target="_blank"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"  title="Bash" alt="bash" width="40" height="40"  /> </a> 
 </p>
-
+<hr/>
 
 
 
