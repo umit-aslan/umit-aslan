@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ümit</h1>
-<h3 align="center">A passionate frontend and game developer from Turkey</h3>
+<h3 align="center">A passionate developer from Turkey</h3>
 <hr/>
 
 <h3 align="left">Connect with me:</h3>
