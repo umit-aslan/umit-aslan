@@ -2,9 +2,7 @@
 <h3 align="center">📊 Veri bilimiyle ilgileniyorum ve web scraping projeleri geliştiriyorum.
 </h3>
 <br/>
-<br/>
-<br/>
-<br/>
+
 
 ### 🛠️ Kullandığım Teknolojiler  
 
